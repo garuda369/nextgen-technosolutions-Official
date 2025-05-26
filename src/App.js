@@ -34,9 +34,8 @@ function App() {
         <section data-aos="fade-up">
           <h2 className="text-2xl font-semibold text-blue-300">Contact Us</h2>
           <p className="text-gray-400 mt-2">
-            Email: info@nextgentechnosolutions.com<br/>
-            Phone: +1 (800) 123-4567
-          </p>
+            Email: recruit@nextgentechnosolutions.com<br/>
+         </p>
         </section>
       </main>
       <footer className="text-center text-sm text-gray-500 mt-20">
