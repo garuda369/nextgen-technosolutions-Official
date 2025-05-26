@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="bg-darkblue text-white min-h-screen p-6">
       <header className="text-center py-10">
-        <img src="/logo_3.png" alt="NextGen Logo" className="mx-auto mb-4 w-24"/>
+        <img src="/logo_3.png" alt="NextGen Logo" className="mx-auto mb-4 w-16"/>
         <h1 className="text-4xl font-bold text-blue-400">NextGen TechnoSolutions</h1>
         <p className="mt-2 text-lg text-gray-300">Empowering IT Innovation</p>
       </header>
